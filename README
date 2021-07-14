@@ -1,0 +1,67 @@
+/** 
+ * file name: README.java 
+ * Author:   Guanyi Lu 
+ * Date:     11/15/2018 
+ * Sources of help: Piazza, Tutor, Textbook     
+ */
+
+
+SnakeGame.java
+  This is a real game that people can use keyboard play with it, when you run
+the program, you can insert the size of grid, loops to win and the delay time,
+you do not have to input all of these, it has the defult value, you also can
+input the number you want, just make sure all the numbers are follow the 
+instructions. When you input the right umnbers, you will se there is a snaek
+head and fruit loop in the grid, your goal is to use snake head to eat many 
+fruits until you reach the number of loops to win. if you hit yourself or hit
+the wall, your snkae will die and game over. After you eating one fruit, your
+snake body will inscreasing and score board will update. Just remember that
+you should use the up, down, left, and right keys on keyBoard to control 
+you snake, and try to win the game. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
